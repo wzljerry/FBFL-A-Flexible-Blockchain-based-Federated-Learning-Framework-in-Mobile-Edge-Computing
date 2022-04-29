@@ -26,7 +26,15 @@ python3 blfec.py
 
 python3 blockchain.py
 
+## What can it do?
 
+1. Test different data on federated learning.
+
+We can test different datasets with IID or Non-IID data.
+
+2. Test different aggregation methods of federated learning.
+
+We provdide some popular aggregation methods.
 
 
 
