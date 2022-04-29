@@ -1,5 +1,6 @@
 # FBFL-A-Flexible-Blockchain-based-Federated-Learning-Framework-in-Mobile-Edge-Computing
-This framework is based on our previews research. It's a simulation platform for researchers and companies to apply blockchain in federated learning framework, and it can be applied in MEC. By far, it's a basic model, which provides most of the functions, such as attacks, data distribution analysis, blockchain consensus, etc. We will update it in the future. 
+This framework is based on our previews research. We build a federated learning system and blockchain system from scratch.
+It's a simulation platform for researchers and companies to apply blockchain in federated learning framework, and it can be applied in MEC. By far, it's a basic model, which provides most of the functions, such as attacks, data distribution analysis, blockchain consensus, etc. We will update it in the future. 
 
 ## How to run it?
 First, we will clarify the dependencies of this project.
@@ -36,7 +37,9 @@ We can test different datasets with IID or Non-IID data.
 
 We provdide some popular aggregation methods.
 
+3. Test different blockchain protocols.
 
+5. Test different attacks.
 
 
 
