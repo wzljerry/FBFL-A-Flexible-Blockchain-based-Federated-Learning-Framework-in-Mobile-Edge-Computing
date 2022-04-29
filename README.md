@@ -41,5 +41,7 @@ We provdide some popular aggregation methods.
 
 5. Test different attacks.
 
-
+## What we will do in the future?
+1. We will implement it on numerous devices.
+2. We will update the platform, providing more functions such as defense strategies.
 
