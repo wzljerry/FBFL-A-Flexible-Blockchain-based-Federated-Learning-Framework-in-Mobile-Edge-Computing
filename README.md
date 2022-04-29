@@ -29,6 +29,10 @@ python3 blfec.py
 
 python3 blockchain.py
 
+Then in another terminal, run
+
+curl  http://127.0.0.1:5000/chain
+
 ## What can it do?
 
 1. Test different data on federated learning.
