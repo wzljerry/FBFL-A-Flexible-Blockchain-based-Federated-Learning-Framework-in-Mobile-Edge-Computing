@@ -11,3 +11,13 @@ First, we will clarify the dependencies of this project.
 6. matplotlib==3.2.2
 7. flask==1.1.4
 8. requests==2.26.0
+
+We recommend you to use virtual environment on Linux.
+
+1. pip install -r requirement.txt
+2. run the federated learning system
+
+
+
+
+
