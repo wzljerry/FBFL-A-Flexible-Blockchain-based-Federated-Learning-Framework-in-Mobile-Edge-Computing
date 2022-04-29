@@ -14,8 +14,12 @@ First, we will clarify the dependencies of this project.
 
 We recommend you to use virtual environment on Linux.
 
-1. pip install -r requirement.txt
-2. run the federated learning system
+1. install all the required packages:
+pip install -r requirement.txt
+2. run the federated learning system in terminal:
+python3 blfec.py
+3. run the blockchain system in terminal:
+python3 blockchain.py
 
 
 
