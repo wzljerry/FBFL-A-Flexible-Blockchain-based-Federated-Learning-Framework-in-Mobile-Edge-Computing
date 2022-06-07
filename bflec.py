@@ -274,6 +274,7 @@ def client_train(num_client,K,client_num):
 
   return weit
 
+
 if __name__=='__main__':
   # basic parameters
   num_client=10
